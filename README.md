@@ -7,6 +7,7 @@ This application creates a profile of your working team based on your answers to
 2. [Usage](#usage)
 3. [Contributing](#contributing)
 4. [Tests](#tests)
+5. [Video](#video)
 
 ## Installation
 Copy this repository to your local files. Make sure to install NPM. Then, your Team Profile Generator is ready to view via HTML or loaded to a browser.
@@ -26,7 +27,7 @@ For this application I used the following resources:
 ## Tests
 All testing is done using Jest.
 
-## Video Link
+## Video
 
 Link: https://drive.google.com/file/d/16TBOwrYYEeer9x7CcKLkZRgjPXADDu_9/view
 
