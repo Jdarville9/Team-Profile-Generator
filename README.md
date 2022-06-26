@@ -27,6 +27,8 @@ For this application I used the following resources:
 ## Tests
 All testing is done using Jest.
 
+Test video link: https://drive.google.com/file/d/1GlvRUrtj5JmpYC2BuISoIPg1vB1ILK91/view
+
 ## Video
 
 Link: https://drive.google.com/file/d/16TBOwrYYEeer9x7CcKLkZRgjPXADDu_9/view
