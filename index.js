@@ -54,7 +54,6 @@ const addEmployee = () => {
         } else if (answer.addEmployee === 'Intern') {
             addIntern();
         } else {
-            console.log("I'm DUMB!!")
             writeToFile();
         }
     })
